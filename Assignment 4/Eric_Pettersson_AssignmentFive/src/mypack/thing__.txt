@@ -1,0 +1,24 @@
+Submit the scratch link for your paintbrush project. Write a reflection by answering the following prompts and submit it as an inline text here.
+
+Reflection prompts:
+
+ What surprised you in this project? 
+I was surprised by the lack of variables and logic options in scratch
+
+ What was the challenge to complete this project?
+I was challenged to find ways to have sprites communicate with eachother and I was time challanged 
+
+ What difference did you make from the design when you actually implemented it?
+I ended up changing the UI for my pencil size because having two buttens that increase and decrese 
+the size of the pencil seemed too difucult.
+
+ What are the future plans to extend the project?
+I would want to finish the project first but afterward I would like to polish the projects UI and
+add a save option. If possible it would be cool to have it save your drawing as a sprite.
+ 
+
+What to submit here?
+
+ 1. Scratch file (50 points)
+
+  2. Inline text with reflections (10 points)
